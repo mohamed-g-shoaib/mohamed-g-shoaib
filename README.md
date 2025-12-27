@@ -5,7 +5,7 @@ Co-founder at [Devloop](https://devloop.software)
 
 Building web experiences that are fast, accessible, and delightful.
 
-- [Portfolio](https://mohamedgshoaib.me/)
+- [Portfolio](https://www.mohamedgshoaib.me/)
 - [CV](https://drive.google.com/file/d/1CJhC5Ku8wie4-CDmyyIMqc4qGEo2Pg6j/view?usp=sharing)
 
 ## Current focus
