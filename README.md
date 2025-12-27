@@ -35,3 +35,4 @@ Building web experiences that are fast, accessible, and delightful.
 | Mo's Experiences | Mobile-first tourism site; improved browsing responsiveness using React Query caching. | [Website](https://mosexperiences.com) |
 | Dana Doors | Arabic-first showroom experience with clear inquiry flow. | [Website](https://www.danadoors.net/ar) |
 | Rootly Notes | Q&A-based notes app with stats and quizzes to reinforce learning habits. | [Repository](https://github.com/mohamed-g-shoaib/rootly-notes-app) · [Website](https://rootly-notes-app.vercel.app/) |
+| Nexcn | A Next.js 16 starter with everything you need to ship fast. | [Repository](https://github.com/mohamed-g-shoaib/nexcn) · [Website](https://nexcn.vercel.app/en) |
