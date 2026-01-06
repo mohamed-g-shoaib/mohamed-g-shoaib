@@ -5,8 +5,8 @@ Co-founder at [Devloop](https://devloop.software)
 
 Building web experiences that are fast, accessible, and delightful.
 
-- [Portfolio](https://www.mohamedgshoaib.me/)
-- [CV](https://drive.google.com/file/d/1CJhC5Ku8wie4-CDmyyIMqc4qGEo2Pg6j/view?usp=sharing)
+- [Visit My Portfolio](https://www.mohamedgshoaib.me/)
+- [View My CV](https://drive.google.com/file/d/1CJhC5Ku8wie4-CDmyyIMqc4qGEo2Pg6j/view?usp=sharing)
 
 ## Current focus
 - Performance and data-fetching patterns (caching, loading states, UX polish)
@@ -27,12 +27,3 @@ Building web experiences that are fast, accessible, and delightful.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
 </div>
 
-## Featured projects
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| Devloop Agency | Agency site with SEO and reusable, responsive components. | [Website](https://devloop.software) |
-| Mo's Experiences | Mobile-first tourism site; improved browsing responsiveness using React Query caching. | [Website](https://mosexperiences.com) |
-| Dana Doors | Arabic-first showroom experience with clear inquiry flow. | [Website](https://www.danadoors.net/ar) |
-| Rootly Notes | Q&A-based notes app with stats and quizzes to reinforce learning habits. | [Repository](https://github.com/mohamed-g-shoaib/rootly-notes-app) · [Website](https://rootly-notes-app.vercel.app/) |
-| Nexcn | A Next.js 16 starter with everything you need to ship fast. | [Repository](https://github.com/mohamed-g-shoaib/nexcn) · [Website](https://nexcn.vercel.app/en) |
