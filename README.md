@@ -1,7 +1,6 @@
 # Mohamed Gamal
 
 **Frontend Developer | React & Next.js**  
-Co-founder at [Devloop](https://devloop.software)
 
 Building web experiences that are fast, accessible, and delightful.
 
