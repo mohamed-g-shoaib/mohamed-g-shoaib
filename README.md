@@ -1,33 +1,23 @@
 # Mohamed Gamal
 
-**Frontend Developer | React & Next.js**  
+**Frontend Developer**
 
-Building web experiences that are fast, accessible, and delightful.
+I build frontend systems with React and Next.js, with close attention to structure, interface quality, and execution.
 
-<a href="https://www.mohamedgshoaib.me/" target="_blank">Visit My Portfolio</a>
-<br />
-<a href="https://drive.google.com/file/d/1CJhC5Ku8wie4-CDmyyIMqc4qGEo2Pg6j/view?usp=sharing" target="_blank">View My CV</a>
+My work sits at the intersection of engineering and design: strong planning, clean visual decisions, and implementation that stays careful all the way through. I care about products that feel considered, not improvised.
 
-## Current focus
-- Performance and data-fetching patterns (caching, loading states, UX polish)
-- Accessible UI and SEO-ready pages
-- RTL-friendly interfaces for Arabic-first products
+Reach me on [X](https://x.com/mo0hamed_gamal), or connect on [LinkedIn](https://www.linkedin.com/in/mohamed-g-shoaib/).
 
-## Tech stack
+Based in Cairo, Egypt.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" alt="shadcn/ui" />
-</div>
+## Approach
 
-## What I'm building
-Check out my pinned repos below ↓
+I work mostly with React and Next.js. I use React with Vite for focused client-side products, and Next.js when the product needs a stronger foundation for routing, content, SEO, or backend work.
+
+For UI, I usually reach for shadcn/ui or coss ui. I prefer Base UI when I want control over the primitives, and Radix UI when the ecosystem fit is better.
+
+On the backend, I often use Supabase for auth, Postgres, and product infrastructure that should move fast without losing structure.
+
+## Portfolio
+
+- [Visit my portfolio](https://www.mohamedgshoaib.me/)
