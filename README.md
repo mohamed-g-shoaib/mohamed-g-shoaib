@@ -1,6 +1,5 @@
 # Mohamed Gamal
-
-### **Frontend Developer**
+**Frontend Developer**
 
 I build frontend systems with React and Next.js, with close attention to structure, interface quality, and execution.
 
